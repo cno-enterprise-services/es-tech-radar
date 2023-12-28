@@ -1,6 +1,6 @@
 [
     {
-      "name": "Composer",
+      "name": "something else",
       "ring": "adopt",
       "quadrant": "tools",
       "isNew": "TRUE",
@@ -14,11 +14,13 @@
       "description": "Many projects have external code dependencies ..."
     },
     {
-      "name": "Apache Kylin",
-      "ring": "assess",
+      "name": "Oracle DB",
+      "ring": "adopt",
       "quadrant": "platforms",
-      "isNew": "TRUE",
-      "description": "Apache Kylin is an open source analytics solution ..."
+      "isNew": "FALSE",
+      "description": "<em>Mature and reliable: <em>With decades of battle-tested functionality and robust enterprise features, Oracle DB remains a rock-solid choice for mission-critical systems.
+      Scalability and performance: Handles enormous data volumes and delivers high throughput, making it suitable for large-scale deployments.
+      Comprehensive ecosystem: A vast ecosystem of tools, frameworks, and integrations simplifies development and management."
     },
     {
       "name": "JSF",
