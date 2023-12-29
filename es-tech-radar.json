@@ -1,32 +1,31 @@
 [
-    {
-      "name": "something else",
-      "ring": "adopt",
-      "quadrant": "tools",
-      "isNew": "TRUE",
-      "description": "Although the idea of dependency management ..."
-    },
-    {
-      "name": "Canary builds",
-      "ring": "trial",
-      "quadrant": "techniques",
-      "isNew": "FALSE",
-      "description": "Many projects have external code dependencies ..."
-    },
-    {
-      "name": "Oracle DB",
-      "ring": "adopt",
-      "quadrant": "platforms",
-      "isNew": "FALSE",
-      "description": "Mature and reliable\: With decades of battle-tested functionality and robust enterprise features, Oracle DB remains a rock-solid choice for mission-critical systems.
-      Scalability and performance: Handles enormous data volumes and delivers high throughput, making it suitable for large-scale deployments.
-      Comprehensive ecosystem: A vast ecosystem of tools, frameworks, and integrations simplifies development and management."
-    },
-    {
-      "name": "JSF",
-      "ring": "hold",
-      "quadrant": "languages & frameworks",
-      "isNew": "FALSE",
-      "description": "We continue to see teams run into trouble using JSF ..."
-    }
-  ]
+  {
+    "name": "something else",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Although the idea of dependency management ..."
+  },
+  {
+    "name": "Canary builds",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Many projects have external code dependencies ..."
+  },
+  {
+    "name": "Oracle DB",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Mature and reliable With decades of battle-tested functionality and robust enterprise features, Oracle DB remains a rock-solid choice for mission-critical systems."
+
+  },
+  {
+    "name": "JSF",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "We continue to see teams run into trouble using JSF ..."
+  }
+]
