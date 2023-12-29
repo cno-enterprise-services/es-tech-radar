@@ -1,21 +1,21 @@
 name, ring, quadrant, isNew, description
 Lightweight approach to RFCs,	Adopt,	Techniques,	FALSE, A Request for Comments (RFC) is a formal document that includes context-dependent design and architectural ideas to facilitate team collaboration and decision-making.
 ADRs to track design evolution,	Adopt,	Techniques,	FALSE, Use Architectural Decision Records to track design decisions
-Provision monitors and alerts with Terraform,Assess,Techniques,TRUE,
-Risk-based failure modeling,Assess,Techniques,TRUE, Risk-based failure modeling is a process used to understand the impact - likelihood and ability of detecting the various ways that a system can fail.  Delivery teams are starting to use this methodology to design and evaluate the controls needed to prevent these failures.
-Tracking health over debt,Trial,Techniques,TRUE,
-Unit testing for alerting rules,Trial,Techniques,TRUE,Observability and monitoring are essential for software teams. Given the unpredictable nature of certain events - creating accurate alert mechanisms with complex rules is crucial.
-GitOps,Assess,Techniques,TRUE,
 Tracking Monthly Cloud Spend,Trial,Techniques,FALSE,
 Path-to-production mapping, Trial, Techniques, TRUE, The activity is most often done in a workshop with a cross-functional group of people — that includes everyone involved in designing/developing/releasing and operating the software — around a shared whiteboard (or virtual equivalent).
+Tracking health over debt,Trial,Techniques,TRUE,
+Unit testing for alerting rules,Trial,Techniques,TRUE,Observability and monitoring are essential for software teams. Given the unpredictable nature of certain events - creating accurate alert mechanisms with complex rules is crucial.
+Provision monitors and alerts with Terraform,Assess,Techniques,TRUE,
+Risk-based failure modeling,Assess,Techniques,TRUE, Risk-based failure modeling is a process used to understand the impact - likelihood and ability of detecting the various ways that a system can fail.  Delivery teams are starting to use this methodology to design and evaluate the controls needed to prevent these failures.
+GitOps,Assess,Techniques,TRUE,
 
 Oracle DB,	Adopt,	Platforms,	FALSE, Oracle Database (commonly referred to as Oracle DBMS Oracle Autonomous Database or simply as Oracle) is a proprietary multi-model database management system produced and marketed by Oracle Corporation.
+Magic Info, Adopt,Platformd
 Open Policy Agent,Assess,Platforms,TRUE,
 Azure Container Apps,Assess,Platforms,TRUE,
 Oracle Container Apps, Assess,Platforms,TRUE,
 APEX, Assess,Platforms, TRUE,
 Magic Info xpa, Assess,Platforms,TRUE,
-Magic Info, Adopt,Platformd
 
 Mermaid,Adopt,Tools,FALSE, Mermaid lets you generate diagrams from a Markdown-like markup language.
 AzureDevOps, Adopt, Tools, FALSE,
