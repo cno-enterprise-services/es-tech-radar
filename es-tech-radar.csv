@@ -25,6 +25,9 @@ Thanos,Assess,Tools,TRUE, When you need to scale Prometheus
 ChatGPT,Assess,Tools,FALSE,
 Google Bard,Assess,Tools,TRUE,
 OpenCost,Trial,Tools,TRUE,OpenCost is an open-source project for monitoring infrastructure cost that surfaces cost at the granularity of Kubernetes objects.
+AzureDevOps, Adopt, Tools, FALSE,
+Wrike, Adopt, Tools, FALSE,
+Wprkfront, Adopt, Tools, FALSE,
 
 Playwright,Assess,languages-and-frameworks,TRUE,
 Grafana, Adopt, languages-and-frameworks, FALSE,
