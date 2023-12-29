@@ -11,11 +11,8 @@ Tracking Monthly Cloud Spend,Trial,Techniques,FALSE,
 Path-to-production mapping, Trial, Techniques, TRUE, The activity is most often done in a workshop with a cross-functional group of people — that includes everyone involved in designing/developing/releasing and operating the software — around a shared whiteboard (or virtual equivalent).
 
 Open Policy Agent,Assess,Platforms,TRUE,
-Orca,Trial,Platforms,TRUE,
-Trino,Trial,Platforms,TRUE, 
-Wiz,Trial,Platforms,TRUE,
-ActivityPub,Assess,Platforms,TRUE,
 Azure Container Apps,Assess,Platforms,TRUE,
+Oracle Container Apps, Assess,Platforms,TRUE
 Azure OpenAI Service,Assess,Platforms,TRUE,
 ChatGLM,Assess,Platforms,TRUE,
 Chroma,Assess,Platforms,TRUE,
