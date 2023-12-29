@@ -8,6 +8,7 @@ Tracking health over debt,Trial,Techniques,TRUE,
 Unit testing for alerting rules,Trial,Techniques,TRUE,Observability and monitoring are essential for software teams. Given the unpredictable nature of certain events - creating accurate alert mechanisms with complex rules is crucial.
 GitOps,Assess,Techniques,TRUE,
 Tracking Monthly Cloud Spend,Trial,Techniques,FALSE,
+Path-to-production mapping, Trial, Techniques, TRUE, The activity is most often done in a workshop with a cross-functional group of people — that includes everyone involved in designing/developing/releasing and operating the software — around a shared whiteboard (or virtual equivalent).
 
 Open Policy Agent,Assess,Platforms,TRUE,
 Orca,Trial,Platforms,TRUE,
