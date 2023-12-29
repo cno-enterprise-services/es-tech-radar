@@ -7,7 +7,7 @@ Tracking health over debt,Trial,Techniques,TRUE,
 Unit testing for alerting rules,Trial,Techniques,TRUE,Observability and monitoring are essential for software teams. Given the unpredictable nature of certain events - creating accurate alert mechanisms with complex rules is crucial.
 Provision monitors and alerts with Terraform,Assess,Techniques,TRUE,
 Risk-based failure modeling,Assess,Techniques,TRUE, Risk-based failure modeling is a process used to understand the impact - likelihood and ability of detecting the various ways that a system can fail.  Delivery teams are starting to use this methodology to design and evaluate the controls needed to prevent these failures.
-GitOps,Assess,Techniques,TRUE,
+GitOps,Assess,Techniques,TRUE
 
 Oracle DB,Adopt,Platforms,FALSE, Oracle Database produced and marketed by Oracle Corporation.
 Magic Info, Adopt,Platformd
