@@ -19,7 +19,7 @@ Magic Info xpa, Assess,Platforms,TRUE,
 Mermaid,Adopt,Tools,FALSE, Mermaid lets you generate diagrams from a Markdown-like markup language.
 
 Checkov,Assess,Tools,TRUE, Checkov is a static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages. It performs Software Composition Analysis (SCA) scanning which is a scan of open source packages and images for Common Vulnerabilities and Exposures (CVEs).
-Chromatic,Trial,Tools,TRUE,
+Chromatic,Trial,Tools,TRUE, Chromatic is a visual regression testing tool to help catch UI regression in web applications. It works by taking snapshots of UI components and comparing them against previous snapshots when they change.
 Cilium,Trial,Tools,FALSE,
 Cloud Carbon Footprint,Trial,Tools,FALSE,
 Container Structure Tests,Trial,Tools,TRUE,
