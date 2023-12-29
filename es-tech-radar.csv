@@ -1,18 +1,11 @@
 name, ring, quadrant, isNew, description
-Lightweight approach to RFCs,	Adopt,	Techniques,	FALSE, A Request for Comments (RFC) is a formal document that includes context-dependent design and architectural ideas to facilitate team collaboration and decision-making. Nearly all digital native and scaleup organizations use RFCs to capture decisions around
+Lightweight approach to RFCs,	Adopt,	Techniques,	FALSE, A Request for Comments (RFC) is a formal document that includes context-dependent design and architectural ideas to facilitate team collaboration and decision-making.
 ADRs to track design evolution,	Adopt,	Techniques,	FALSE, Use Architectural Decision Records to track design decisions
-Oracle DB,	Adopt,	Platforms,	FALSE, Oracle Database (commonly referred to as Oracle DBMS Oracle Autonomous Database or simply as Oracle) is a proprietary multi-model database management system produced and marketed by Oracle Corporation. It is a database commonly used for running online transaction
-Design systems,Adopt,Techniques,FALSE,
-Lightweight approach to RFCs,Adopt,Techniques,FALSE,
-Accessibility-aware component test design,Trial,Techniques,FALSE,
-Attack path analysis,Trial,Techniques,TRUE,
-Automatic merging of dependency update PRs,Trial,Techniques,TRUE,
-Data product thinking for FAIR data,Trial,Techniques,TRUE,
-OIDC for GitHub Actions,Trial,Techniques,TRUE,
-Provision monitors and alerts with Terraform,Trial,Techniques,TRUE,
-ReAct prompting,Trial,Techniques,TRUE,
-Retrieval-Augmented Generation (RAG),Trial,Techniques,TRUE,
-Risk-based failure modeling,Trial,Techniques,TRUE,
+Oracle DB,	Adopt,	Platforms,	FALSE, Oracle Database (commonly referred to as Oracle DBMS Oracle Autonomous Database or simply as Oracle) is a proprietary multi-model database management system produced and marketed by Oracle Corporation.
+
+Provision monitors and alerts with Terraform,Assess,Techniques,TRUE,
+Risk-based failure modeling,Assess,Techniques,TRUE, Risk-based failure modeling is a process used to understand the impact - likelihood and ability of detecting the various ways that a system can fail. 
+
 Semi-structured natural language for LLMs,Trial,Techniques,TRUE,
 Tracking health over debt,Trial,Techniques,FALSE,
 Unit testing for alerting rules,Trial,Techniques,TRUE,
