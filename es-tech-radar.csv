@@ -17,25 +17,11 @@ APEX, Assess,Platforms, TRUE,
 Magic Info xpa, Assess,Platforms,TRUE,
 
 Mermaid,Adopt,Tools,FALSE, Mermaid lets you generate diagrams from a Markdown-like markup language.
-
 Checkov,Assess,Tools,TRUE, Checkov is a static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages. It performs Software Composition Analysis (SCA) scanning which is a scan of open source packages and images for Common Vulnerabilities and Exposures (CVEs).
 Chromatic,Trial,Tools,TRUE, Chromatic is a visual regression testing tool to help catch UI regression in web applications. It works by taking snapshots of UI components and comparing them against previous snapshots when they change.
+Insomnia,Trial,Tools,TRUE, Free and open-source desktop application designed for API testing - development and debugging.
 
-Cloud Carbon Footprint,Assess,Tools,TRUE,
-Container Structure Tests,Trial,Tools,TRUE,
-Devbox,Trial,Tools,FALSE,
-DX DevEx 360,Trial,Tools,TRUE,
-GitHub Copilot,Trial,Tools,FALSE,
-Insomnia,Trial,Tools,TRUE,
-IntelliJ HTTP Client plugin,Trial,Tools,TRUE,
-KEDA,Trial,Tools,TRUE,
-Kubeconform,Trial,Tools,TRUE,
-mob,Trial,Tools,FALSE,
-MobSF,Trial,Tools,TRUE,
-Mocks Server,Trial,Tools,TRUE,
-Prisma runtime defense,Trial,Tools,TRUE,
-Terratest,Trial,Tools,FALSE,
-Thanos,Trial,Tools,TRUE,
+Thanos,Assess,Tools,TRUE, When you need to scale Prometheus
 Yalc,Trial,Tools,TRUE,
 ChatGPT,Assess,Tools,FALSE,
 Codeium,Assess,Tools,TRUE,
