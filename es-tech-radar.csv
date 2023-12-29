@@ -17,12 +17,8 @@ APEX, Assess,Platforms, TRUE,
 Magic Info xpa, Assess,Platforms,TRUE,
 
 Mermaid,Adopt,Tools,FALSE, Mermaid lets you generate diagrams from a Markdown-like markup language.
-Ruff,Adopt,Tools,FALSE,
-Snyk,Adopt,Tools,FALSE,
-AWS Control Tower,Trial,Tools,FALSE,
-Bloc,Trial,Tools,TRUE,
-cdk-nag,Trial,Tools,TRUE,
-Checkov,Trial,Tools,TRUE,
+
+Checkov,Assess,Tools,TRUE, Checkov is a static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages. It performs Software Composition Analysis (SCA) scanning which is a scan of open source packages and images for Common Vulnerabilities and Exposures (CVEs).
 Chromatic,Trial,Tools,TRUE,
 Cilium,Trial,Tools,FALSE,
 Cloud Carbon Footprint,Trial,Tools,FALSE,
