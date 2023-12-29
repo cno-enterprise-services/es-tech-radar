@@ -16,8 +16,7 @@ Oracle Container Apps, Assess,Platforms,TRUE,
 APEX, Assess,Platforms, TRUE,
 Magic Info xpa, Assess,Platforms,TRUE,
 
-dbt,Adopt,Tools,FALSE,
-Mermaid,Adopt,Tools,FALSE,
+Mermaid,Adopt,Tools,FALSE, Mermaid lets you generate diagrams from a Markdown-like markup language.
 Ruff,Adopt,Tools,FALSE,
 Snyk,Adopt,Tools,FALSE,
 AWS Control Tower,Trial,Tools,FALSE,
