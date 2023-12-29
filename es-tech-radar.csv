@@ -12,7 +12,9 @@ Path-to-production mapping, Trial, Techniques, TRUE, The activity is most often 
 Oracle DB,	Adopt,	Platforms,	FALSE, Oracle Database (commonly referred to as Oracle DBMS Oracle Autonomous Database or simply as Oracle) is a proprietary multi-model database management system produced and marketed by Oracle Corporation.
 Open Policy Agent,Assess,Platforms,TRUE,
 Azure Container Apps,Assess,Platforms,TRUE,
-Oracle Container Apps, Assess,Platforms,TRUE
+Oracle Container Apps, Assess,Platforms,TRUE,
+APEX, Assess,Platforms, TRUE,
+Magic Info xpa, Assess,Platforms,TRUE,
 
 dbt,Adopt,Tools,FALSE,
 Mermaid,Adopt,Tools,FALSE,
