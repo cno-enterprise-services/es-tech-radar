@@ -16,12 +16,13 @@ Azure Container Apps,Assess,Platforms,TRUE,
 Oracle Container Apps, Assess,Platforms,TRUE,
 APEX, Assess,Platforms, TRUE,
 Magic Info xpa, Assess,Platforms,TRUE,
+OpKey, Adopt, Platforms, TRUE, Automated ERP and HCM testing framework
 Oracle REST Data Services (ORDS), Assess, Tools, TRUE, Oracle REST Data Services (ORDS) bridges HTTPS and your Oracle Database. A mid-tier Java application - ORDS provides a Database Management REST API/ SQL Developer Web/ a PL/SQL Gateway/ SODA for REST/ and the ability to publish RESTful Web Services for interacting with the data and stored procedures in your Oracle Database.
 
 Mermaid,Adopt,Tools,FALSE, Mermaid lets you generate diagrams from a Markdown-like markup language.
 AzureDevOps, Adopt, Tools, FALSE,
 Wrike, Adopt, Tools, FALSE,
-Wprkfront, Adopt, Tools, FALSE,
+Workfront, Adopt, Tools, FALSE,
 Chromatic,Trial,Tools,TRUE, Chromatic is a visual regression testing tool to help catch UI regression in web applications. It works by taking snapshots of UI components and comparing them against previous snapshots when they change.
 Insomnia,Trial,Tools,TRUE, Free and open-source desktop application designed for API testing - development and debugging.
 OpenCost,Assess,Tools,TRUE,OpenCost is an open-source project for monitoring infrastructure cost that surfaces cost at the granularity of Kubernetes objects.
