@@ -1,8 +1,8 @@
 name, ring, quadrant, isNew, description
-Lightweight approach to RFCs,	Adopt,	Techniques,	FALSE, A Request for Comments (RFC) is a formal document that includes context-dependent design and architectural ideas to facilitate team collaboration and decision-making.
-ADRs to track design evolution,	Adopt,	Techniques,	FALSE, Use Architectural Decision Records to track design decisions
+Lightweight approach to RFCs,	Adopt,	Techniques,	TRUE, A Request for Comments (RFC) is a formal document that includes context-dependent design and architectural ideas to facilitate team collaboration and decision-making.
+ADRs to track design evolution,	Adopt,	Techniques,	TRUE, Use Architectural Decision Records to track design decisions
 Tracking Monthly Cloud Spend,Trial,Techniques,FALSE,
-Path-to-production mapping, Trial, Techniques, TRUE, The activity is most often done in a workshop with a cross-functional group of people — that includes everyone involved in designing/developing/releasing and operating the software — around a shared whiteboard (or virtual equivalent).
+Path-to-production mapping, Trial, Techniques, FALSE, The activity is most often done in a workshop with a cross-functional group of people — that includes everyone involved in designing/developing/releasing and operating the software — around a shared whiteboard (or virtual equivalent).
 Tracking health over debt,Trial,Techniques,TRUE,
 Unit testing for alerting rules,Trial,Techniques,TRUE,Observability and monitoring are essential for software teams. Given the unpredictable nature of certain events - creating accurate alert mechanisms with complex rules is crucial.
 Provision monitors and alerts with Terraform,Assess,Techniques,TRUE,
@@ -10,7 +10,7 @@ Risk-based failure modeling,Assess,Techniques,TRUE, Risk-based failure modeling 
 GitOps,Assess,Techniques,TRUE,
 
 Oracle DB,Adopt,Platforms,FALSE, Oracle Database produced and marketed by Oracle Corporation.
-Magic Info, Adopt,Platforms, FALSE,
+Magic Info xpi, Adopt,Platforms, FALSE,
 Open Policy Agent,Assess,Platforms,TRUE,
 Azure Container Apps,Assess,Platforms,TRUE,
 Oracle Container Apps, Assess,Platforms,TRUE,
@@ -20,7 +20,7 @@ OpKey, Adopt, Platforms, TRUE, Automated ERP and HCM testing framework
 Oracle REST Data Services (ORDS), Assess, Tools, TRUE, Oracle REST Data Services (ORDS) bridges HTTPS and your Oracle Database. A mid-tier Java application - ORDS provides a Database Management REST API/ SQL Developer Web/ a PL/SQL Gateway/ SODA for REST/ and the ability to publish RESTful Web Services for interacting with the data and stored procedures in your Oracle Database.
 
 Mermaid,Adopt,Tools,FALSE, Mermaid lets you generate diagrams from a Markdown-like markup language.
-AzureDevOps, Adopt, Tools, FALSE,
+AzureDevOps, Adopt, Tools, TRUE,
 Wrike, Adopt, Tools, FALSE,
 Workfront, Adopt, Tools, FALSE,
 Chromatic,Trial,Tools,TRUE, Chromatic is a visual regression testing tool to help catch UI regression in web applications. It works by taking snapshots of UI components and comparing them against previous snapshots when they change.
