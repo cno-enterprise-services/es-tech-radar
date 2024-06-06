@@ -12,10 +12,9 @@ GitOps,Trial,Techniques,TRUE,
 Oracle DB,Adopt,Platforms,FALSE, Oracle Database produced and marketed by Oracle Corporation.
 Magic Info xpi, Adopt,Platforms, FALSE,
 Open Policy Agent,Assess,Platforms,TRUE,
-Azure Container Apps,Assess,Platforms,TRUE,
 Oracle Container Apps, Assess,Platforms,TRUE,
 APEX, Assess,Platforms, TRUE,
-Magic Info xpa, Assess,Platforms,TRUE,
+Magic Info xpa, Trial,Platforms,TRUE,
 OpKey, Adopt, Platforms, TRUE, Automated ERP and HCM testing framework
 Oracle REST Data Services (ORDS), Assess, Tools, TRUE, Oracle REST Data Services (ORDS) bridges HTTPS and your Oracle Database. A mid-tier Java application - ORDS provides a Database Management REST API/ SQL Developer Web/ a PL/SQL Gateway/ SODA for REST/ and the ability to publish RESTful Web Services for interacting with the data and stored procedures in your Oracle Database.
 
