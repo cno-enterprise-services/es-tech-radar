@@ -23,12 +23,7 @@ AzureDevOps, Adopt, Tools, TRUE,
 Wrike, Adopt, Tools, FALSE,
 Workfront, Adopt, Tools, FALSE,
 Chromatic,Trial,Tools,TRUE, Chromatic is a visual regression testing tool to help catch UI regression in web applications. It works by taking snapshots of UI components and comparing them against previous snapshots when they change.
-Insomnia,Trial,Tools,TRUE, Free and open-source desktop application designed for API testing - development and debugging.
-OpenCost,Assess,Tools,TRUE,OpenCost is an open-source project for monitoring infrastructure cost that surfaces cost at the granularity of Kubernetes objects.
 Checkov,Assess,Tools,TRUE, Checkov is a static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages. It performs Software Composition Analysis (SCA) scanning which is a scan of open source packages and images for Common Vulnerabilities and Exposures (CVEs).
-Thanos,Assess,Tools,TRUE, When you need to scale Prometheus
-ChatGPT,Assess,Tools,FALSE,
-Google Bard,Assess,Tools,TRUE,
 
 Grafana, Adopt, languages-and-frameworks, FALSE,
 OpenTelemetry,Trial,languages-and-frameworks,FALSE,
