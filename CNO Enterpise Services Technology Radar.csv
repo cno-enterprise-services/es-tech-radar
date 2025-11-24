@@ -25,4 +25,4 @@ OpenTelemetry,Adopt,languages-and-frameworks,FALSE,
 Playwright,Assess,languages-and-frameworks,TRUE,
 Python, Adopt, languages-and-frameworks, FALSE,
 Camel, Adopt, languages-and-frameworks, Camel is an Open Source code first integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
-EPM Automate, Adopt, languages-and-frameworks, Oracle/Hyperion based Domain Specific Language (DSL) for integrating with Oracle EPM. 
+EPM Automate, Adopt, languages-and-frameworks, CLI based Domain Specific Language (DSL) for integrating with Oracle EPM. 
