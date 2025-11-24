@@ -1,30 +1,26 @@
 name, ring, quadrant, isNew, description
 Lightweight approach to RFCs,	Adopt,	Techniques,	FALSE, A Request for Comments (RFC) is a formal document that includes context-dependent design and architectural ideas to facilitate team collaboration and decision-making.
-ADRs to track design evolution,	Adopt,	Techniques,	TRUE, Use Architectural Decision Records to track design decisions
-Tracking Monthly Cloud Spend,Adopt,Techniques,TRUE,
-Path-to-production mapping, Trial, Techniques, FALSE, The activity is most often done in a workshop with a cross-functional group of people — that includes everyone involved in designing/developing/releasing and operating the software — around a shared whiteboard (or virtual equivalent).
-Tracking health over debt,Trial,Techniques,TRUE,
-Unit testing for alerting rules,Trial,Techniques,TRUE,Observability and monitoring are essential for software teams. Given the unpredictable nature of certain events - creating accurate alert mechanisms with complex rules is crucial.
-Provision monitors and alerts with OpenTofu,Assess,Techniques,TRUE,
-Risk-based failure modeling,Assess,Techniques,TRUE, Risk-based failure modeling is a process used to understand the impact - likelihood and ability of detecting the various ways that a system can fail.  Delivery teams are starting to use this methodology to design and evaluate the controls needed to prevent these failures.
+ADRs to track design evolution,	Adopt,	Techniques,	FALSE, Use Architectural Decision Records to track design decisions
 GitOps,Trial,Techniques,TRUE,
 
 Oracle DB,Adopt,Platforms,FALSE, Oracle Database produced and marketed by Oracle Corporation.
-Magic Info xpi, Adopt,Platforms, FALSE,
-Open Policy Agent,Assess,Platforms,TRUE,
-Oracle Container Apps, Assess,Platforms,TRUE,
-APEX, Assess,Platforms, TRUE,
-Magic Info xpa, Trial,Platforms,TRUE,
-OpKey, Adopt, Platforms, TRUE, Automated ERP and HCM testing framework
+Magic Info xpi, Adopt,Platforms, FALSE, Magic xpi is a low-code integration and automation platform developed by Magic Software Enterprises. It allows organizations to connect, synchronize, and automate data and business processes across diverse systems — such as ERP, CRM, cloud applications, and legacy systems — without extensive coding.
+Flexagon FlexDeploy, Trial, Platforms, TRUE, FlexDeploy is a DevOps and release-automation platform developed by Flexagon. In simple terms, it helps organizations build, test, deploy, and release software changes in a more automated, consistent, and governed way.
+
+Oracle Container Apps, Assess,Platforms,TRUE, Oracles platform for containers.
+APEX, Hold, Platforms, FALSE, Oracle APEX is a browser-based, low-code platform that runs on Oracle Database.
+Magic Info xpa, Hold,Platforms,FALSE, Magic's low code platform.
+OpKey, Adopt, Platforms, FALSE, Automated ERP and HCM testing framework
 Oracle REST Data Services (ORDS), Assess, Tools, TRUE, Oracle REST Data Services (ORDS) bridges HTTPS and your Oracle Database. A mid-tier Java application - ORDS provides a Database Management REST API/ SQL Developer Web/ a PL/SQL Gateway/ SODA for REST/ and the ability to publish RESTful Web Services for interacting with the data and stored procedures in your Oracle Database.
 
 Mermaid,Adopt,Tools,FALSE, Mermaid lets you generate diagrams from a Markdown-like markup language.
-AzureDevOps, Adopt, Tools, TRUE,
-Wrike, Adopt, Tools, FALSE,
-Workfront, Adopt, Tools, FALSE,
-Chromatic,Trial,Tools,TRUE, Chromatic is a visual regression testing tool to help catch UI regression in web applications. It works by taking snapshots of UI components and comparing them against previous snapshots when they change.
-Checkov,Assess,Tools,TRUE, Checkov is a static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages. It performs Software Composition Analysis (SCA) scanning which is a scan of open source packages and images for Common Vulnerabilities and Exposures (CVEs).
+AzureDevOps, Adopt, Tools, FALSE, ES Eng work management tool
+Wrike, Adopt, Tools, FALSE, ES product management tool
+Workfront, Adopt, Tools, FALSE, CNO project management tool
+
 
 Grafana, Adopt, languages-and-frameworks, FALSE,
-OpenTelemetry,Trial,languages-and-frameworks,FALSE,
+OpenTelemetry,Adopt,languages-and-frameworks,FALSE,
 Playwright,Assess,languages-and-frameworks,TRUE,
+Python, Adopt, languages-and-frameworks, FALSE,
+Camel, Adopt, languages-and-frameworks, Camel is an Open Source code first integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
